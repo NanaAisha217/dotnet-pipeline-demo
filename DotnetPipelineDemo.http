@@ -1,0 +1,6 @@
+@DotnetPipelineDemo_HostAddress = http://localhost:5287
+
+GET {{DotnetPipelineDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
